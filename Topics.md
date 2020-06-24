@@ -12,6 +12,7 @@ make a class iterable use \_\_iter\_\_
 Recursion  
 Linked List  
 Trees
+Exceptions
 
 JSON  
 Rest APIs & test using Postman  
