@@ -11,7 +11,7 @@ Loops
 make a class iterable use \_\_iter\_\_  
 Recursion  
 Linked List  
-Trees
+Trees  
 Exceptions
 
 JSON  
