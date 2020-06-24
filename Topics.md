@@ -1,25 +1,29 @@
 # List of topics
 
-1. Dictionary  - 
-2. Strings  - 
-3. Classes  
+1. Dictionary  - Aravind
+2. Strings  - Lakshmeeswari
+3. Classes  - Bhavani
+6. Min and Max with Key function  - Vikas
+7. Files  - Kranthi 
+8. Loops  -  Vikas
+10. Recursion  - Bhavani
+11. Linked List - Kranthi 
+12. Trees  - Aravind
+13. Exceptions - Lakshmeeswari
+
 4. Modules  
-5. Any and All  
-6. Min and Max with Key function  
-7. Files  
-8. Loops  -  
+5. Any and All 
 9. make a class iterable use \_\_iter\_\_  
-10. Recursion  
-11. Linked List  
-12. Trees  
-13. Exceptions
 
 ## New Concepts
-1. JSON  
-2. Rest APIs & test using Postman  
-3. Python Image processing  - 
-4. SMTP/ mail  
-5. Generate Markdown to PDF.  
+
+2. Rest APIs & test using Postman - Aravind
+3. Python Image processing   - Vikas
+5. Generate Markdown to PDF  - Lakshmeeswari
+7. Github autograding how to run seperate test cases  - Kranthi 
+8. Python, Google Cloud functions - Bhavani
+
+
+1. JSON 
+4. SMTP/ mail 
 6. Test Driven Development  
-7. Github autograding how to run seperate test cases  
-8. Python Google Cloud functions
